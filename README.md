@@ -1,6 +1,4 @@
-"# voting-quiz" 
-"# voting-quiz" 
-"# poll_project" 
-"# poll_project" 
-"# Poll_Project" 
-"# Poll_Project" 
+# This is Basic Poll Project
+here their are question with their respective answers
+# Look the following Screenshoot
+
