@@ -4,6 +4,9 @@ here their are question with their respective answers
 
 ![Image](https://github.com/user-attachments/assets/26dc83fd-dc67-49a3-a51a-d8460192464c)
 
+
+![Image](https://github.com/user-attachments/assets/27dada5a-61e7-4ff7-980d-cf6045ac8584)
+
 https://github.com/THENEWLEARNER10/Poll_Project/blob/03aa11eee733d1357bf6b5f69fd9a8f3c21c709d/Screenshot%202025-04-14%20170706.png
 
 https://github.com/THENEWLEARNER10/Poll_Project/blob/0f410358047e189b541a04d095e6b1f35a584236/Screenshot%202025-04-14%20170852.png
